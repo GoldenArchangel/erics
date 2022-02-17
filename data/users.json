@@ -1,0 +1,47 @@
+[
+    {
+        "firstName": "BIng",
+        "lastName": "bing@gmail.com",
+        "username": "BOngis",
+        "hash": "$2a$10$OzPXI1nsItT4Ogcm4Do6/.PUvq5.o/K6kPSqePQ5dtgv5md36TgLO",
+        "id": 1,
+        "dateCreated": "2022-02-11T16:25:22.351Z",
+        "dateUpdated": "2022-02-11T16:25:22.351Z"
+    },
+    {
+        "firstName": "Filip",
+        "username": "F",
+        "lastName": "Maric",
+        "hash": "$2a$10$QJfL33Od5Gv93ShH9HDO6uCFo61Knc4Ys7XHo8.APiVcremQPP/1m",
+        "id": 2,
+        "dateCreated": "2022-02-11T16:39:24.502Z",
+        "dateUpdated": "2022-02-11T16:39:24.502Z"
+    },
+    {
+        "firstName": "poi",
+        "lastName": "poi@gmail.com",
+        "username": "poi",
+        "hash": "$2a$10$Pfyy5Mf9UFrfJVAJkRjokOt4Lj4Gs9BdSglWKjzK3q4kLUOk4SWzG",
+        "id": 3,
+        "dateCreated": "2022-02-11T16:40:53.619Z",
+        "dateUpdated": "2022-02-11T16:40:53.619Z"
+    },
+    {
+        "firstName": "Filip",
+        "lastName": "fmaric77@gmail.com",
+        "username": "Bob",
+        "hash": "$2a$10$Hh6zeevJ6lMoGrxcbVUthO.0v1e74iCr9LEyh5XQ9nFU4Ts.Sxgt.",
+        "id": 4,
+        "dateCreated": "2022-02-11T18:34:35.072Z",
+        "dateUpdated": "2022-02-11T18:34:35.072Z"
+    },
+    {
+        "firstName": "f",
+        "lastName": "f",
+        "username": "f",
+        "hash": "$2a$10$Ji4mjgFrjZ5FM6mNvw1qjO9Y21reAwZEMjRb60TLuVBN813/E7x.S",
+        "id": 5,
+        "dateCreated": "2022-02-12T09:49:40.464Z",
+        "dateUpdated": "2022-02-12T09:49:40.464Z"
+    }
+]
